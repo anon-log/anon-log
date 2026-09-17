@@ -4,12 +4,12 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I'm currently working on **[프로젝트명]**
-- 🌱 I'm currently learning **GIT**
-- 👯 I'm looking to collaborate on **Music culture**
+- 🔭 I'm currently working on **우리WON 청년 IT 아카데미**
+- 🌱 I'm currently learning **GIT,Front-End,Back-End,Infra,SQL**
+- 👯 I'm looking to collaborate on **AI,IT,Music culture**
 - 💬 Ask me about **Blockchain**
 - 📫 How to reach me: **dayone991224@gmail.com**
-- ⚡ Fun fact: **5분마다 한번씩 좌절하고 있지만 포기하지 않는 열정 수강생**
+- ⚡ Fun fact: **호기심을 원동력으로, 일단 시작하고 행동하는 기획자**
 
 ***
 
